@@ -1,0 +1,189 @@
+2017/11/06 13:17:05 [notice] 18164#18164: signal process started
+2017/11/06 13:35:24 [notice] 21683#21683: signal process started
+2017/11/06 13:46:15 [notice] 22388#22388: signal process started
+2017/11/06 13:51:11 [emerg] 22637#22637: unknown directive "simpleserve" in /etc/nginx/nginx.conf:75
+2017/11/06 13:54:48 [warn] 22769#22769: conflicting server name "marketintelligence-app.nferx.com" on 0.0.0.0:3000, ignored
+2017/11/06 13:54:48 [warn] 22769#22769: conflicting server name "bharath.servers.nferx.com" on 0.0.0.0:3000, ignored
+2017/11/06 13:54:48 [warn] 22769#22769: conflicting server name "94.130.53.105" on 0.0.0.0:3000, ignored
+2017/11/06 13:55:34 [warn] 22805#22805: conflicting server name "marketintelligence-app.nferx.com" on 0.0.0.0:3000, ignored
+2017/11/06 13:55:34 [warn] 22805#22805: conflicting server name "bharath.servers.nferx.com" on 0.0.0.0:3000, ignored
+2017/11/06 13:55:34 [warn] 22805#22805: conflicting server name "94.130.53.105" on 0.0.0.0:3000, ignored
+2017/11/06 13:55:34 [notice] 22805#22805: signal process started
+2017/11/06 13:57:10 [notice] 22888#22888: signal process started
+2017/11/06 14:02:24 [emerg] 23268#23268: invalid parameter "marketintelligence-app.nferx.com" in /etc/nginx/sites-enabled/landscape.com:3
+2017/11/06 14:03:57 [notice] 23335#23335: signal process started
+2017/11/06 14:11:18 [notice] 23676#23676: signal process started
+2017/11/06 14:23:15 [notice] 24664#24664: signal process started
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [crit] 24665#24665: *59352 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:22 [error] 24665#24665: *59352 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/favicon.ico" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [crit] 24665#24665: *59353 stat() "/data/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:23:23 [error] 24665#24665: *59353 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:24 [notice] 24877#24877: signal process started
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59354 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [error] 24885#24885: *59354 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com:3000"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/favicon.ico" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [crit] 24885#24885: *59355 stat() "/var/www/landscape/index.html" failed (13: Permission denied), client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:27:31 [error] 24885#24885: *59355 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 103.6.157.65, server: marketintelligence-app.nferx.com, request: "GET /favicon.ico HTTP/1.1", host: "bharath.servers.nferx.com:3000", referrer: "http://bharath.servers.nferx.com:3000/"
+2017/11/06 14:29:42 [notice] 24986#24986: signal process started
+2017/10/26 11:56:40 [crit] 28139#28139: *49433 connect() to unix:///tmp/uwsgi.sock failed (2: No such file or directory) while connecting to upstream, client: 94.130.12.50, server: marketintelligence-app.nferx.com, request: "GET /api/getmatchingdrugid/?token=imatinib HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "marketintelligence-app.nferx.com:8000"
+2017/10/24 12:10:41 [notice] 27251#27251: signal process started
+2017/10/24 12:12:14 [notice] 27335#27335: signal process started
+2017/10/24 12:19:41 [warn] 27668#27668: server name "apps.nferx.com/marketintelligence" has suspicious symbols in /etc/nginx/nginx.conf:13
+2017/10/24 12:19:41 [warn] 27668#27668: server name "apps.nferx.com/marketintelligence" has suspicious symbols in /etc/nginx/sites-enabled/django.conf:12
+2017/10/24 12:21:20 [notice] 27733#27733: signal process started
+2017/10/24 12:23:18 [notice] 27788#27788: signal process started
+2017/10/24 12:39:23 [notice] 28135#28135: signal process started
+2017/10/15 15:06:13 [crit] 28521#28521: *30792 connect() to unix:///tmp/uwsgi.sock failed (2: No such file or directory) while connecting to upstream, client: 66.30.116.19, server: bharath.servers.nferx.com, request: "GET /api/autocompletedrug/?q= HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/drugsearch"
+2017/10/15 15:16:44 [crit] 28525#28525: *30878 connect() to unix:///tmp/uwsgi.sock failed (2: No such file or directory) while connecting to upstream, client: 66.30.116.19, server: bharath.servers.nferx.com, request: "GET /api/getfaersmatches/?page_size=15&drug_id=DB00654&min_count=25&min_prr=2&max_nov=10&min_co_occur=40&min_cosine=0.33&is_strong_assoc=false&is_well_known=true&well_known_cosine=0.6&assoc_co_occur=5&sort_id=prr&page=0&sort_direction=-1 HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/drugsearch"
+2017/09/21 11:17:03 [notice] 27295#27295: signal process started
+2017/09/21 11:17:03 [emerg] 10552#10552: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/09/21 11:17:03 [emerg] 10552#10552: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/09/21 11:17:03 [emerg] 10552#10552: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/09/21 11:17:03 [emerg] 10552#10552: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/09/21 11:17:03 [emerg] 10552#10552: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/09/21 11:17:03 [emerg] 10552#10552: still could not bind()
+2017/09/21 11:25:53 [notice] 27582#27582: signal process started
+2017/09/21 11:27:11 [crit] 27588#27588: *6616 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /api/autocompletedrug/?q= HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:27:13 [crit] 27588#27588: *6616 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:27:21 [crit] 27588#27588: *6616 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:27:26 [crit] 27588#27588: *6616 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:29:06 [emerg] 27779#27779: unknown directive "/etc/nginx/uwsgi_params" in /etc/nginx/sites-enabled/django.conf:5
+2017/09/21 11:29:28 [emerg] 27795#27795: unknown directive "inlcude" in /etc/nginx/sites-enabled/django.conf:5
+2017/09/21 11:30:17 [notice] 27814#27814: signal process started
+2017/09/21 11:30:34 [crit] 27818#27818: *6621 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:33:44 [crit] 27818#27818: *6633 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q= HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:33:47 [crit] 27818#27818: *6633 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q=l HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:33:48 [crit] 27818#27818: *6633 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q=la HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:33:49 [crit] 27818#27818: *6633 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q=lat HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:36:12 [emerg] 28005#28005: unknown directive "socket" in /etc/nginx/sites-enabled/django.conf:4
+2017/09/21 11:37:59 [notice] 28054#28054: signal process started
+2017/09/21 11:43:48 [notice] 28323#28323: signal process started
+2017/09/21 11:45:07 [crit] 28331#28331: *6672 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q= HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:46:00 [crit] 28331#28331: *6672 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:46:06 [crit] 28331#28331: *6672 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:46:14 [crit] 28331#28331: *6672 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:49:03 [notice] 28520#28520: signal process started
+2017/09/21 11:49:15 [crit] 28527#28527: *6685 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/autocompletedrug/?q= HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/"
+2017/09/21 11:49:17 [crit] 28527#28527: *6685 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 11:52:20 [crit] 28527#28527: *6688 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 12:05:55 [error] 28527#28527: *6694 connect() to unix:///tmp/uwsgi.sock failed (111: Connection refused) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/drugsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/drugs"
+2017/09/21 12:08:01 [crit] 28527#28527: *6698 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/21 12:09:54 [crit] 28527#28527: *6700 connect() to unix:///tmp/uwsgi.sock failed (13: Permission denied) while connecting to upstream, client: 49.205.222.183, server: bharath.servers.nferx.com, request: "OPTIONS /api/activeingredientsexplorer/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/uwsgi.sock:", host: "bharath.servers.nferx.com:8000", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/05 07:00:50 [notice] 16922#16922: signal process started
+2017/09/05 07:00:54 [error] 16925#16925: *125 rewrite or internal redirection cycle while internally redirecting to "/data/www/index.html", client: 103.6.157.65, server: bharath.servers.nferx.com, request: "GET / HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/05 07:01:14 [notice] 16936#16936: signal process started
+2017/09/05 07:35:52 [warn] 17370#17370: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/05 07:38:03 [notice] 17376#17376: signal process started
+2017/09/05 07:41:13 [notice] 17417#17417: signal process started
+2017/09/04 12:50:09 [emerg] 1958#1958: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 12:50:09 [emerg] 1958#1958: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 12:50:09 [emerg] 1958#1958: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 12:50:09 [emerg] 1958#1958: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 12:50:09 [emerg] 1958#1958: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 12:50:09 [emerg] 1958#1958: still could not bind()
+2017/09/04 13:22:36 [notice] 10253#10253: signal process started
+2017/09/04 13:22:36 [error] 10253#10253: invalid PID number "" in "/run/nginx.pid"
+2017/09/04 13:23:12 [notice] 10263#10263: signal process started
+2017/09/04 13:23:12 [error] 10263#10263: invalid PID number "" in "/run/nginx.pid"
+2017/09/04 13:24:31 [emerg] 10292#10292: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:24:31 [emerg] 10292#10292: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:24:31 [emerg] 10292#10292: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:24:31 [emerg] 10292#10292: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:24:31 [emerg] 10292#10292: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:24:31 [emerg] 10292#10292: still could not bind()
+2017/09/04 13:24:57 [notice] 10307#10307: signal process started
+2017/09/04 13:24:57 [error] 10307#10307: invalid PID number "" in "/run/nginx.pid"
+2017/09/04 13:25:22 [emerg] 10363#10363: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:25:22 [emerg] 10363#10363: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:25:22 [emerg] 10363#10363: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:25:22 [emerg] 10363#10363: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:25:22 [emerg] 10363#10363: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:25:22 [emerg] 10363#10363: still could not bind()
+2017/09/04 13:26:19 [emerg] 10427#10427: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:26:19 [emerg] 10427#10427: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:26:19 [emerg] 10427#10427: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:26:19 [emerg] 10427#10427: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:26:19 [emerg] 10427#10427: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:26:19 [emerg] 10427#10427: still could not bind()
+2017/09/04 13:27:48 [emerg] 10458#10458: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:27:48 [emerg] 10458#10458: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:27:48 [emerg] 10458#10458: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/04 13:35:53 [warn] 10853#10853: conflicting server name "" on 0.0.0.0:80, ignored
+2017/09/04 13:36:58 [warn] 10886#10886: conflicting server name "" on 0.0.0.0:80, ignored
+2017/09/04 13:37:32 [warn] 10925#10925: conflicting server name "" on 0.0.0.0:80, ignored
+2017/09/04 13:38:18 [notice] 10946#10946: signal process started
+2017/09/04 13:42:12 [notice] 11047#11047: signal process started
+2017/09/04 14:13:38 [error] 11051#11051: *18 open() "/data/www/drugs" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:28:03 [error] 11051#11051: *25 open() "/data/www/drugs" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:28:27 [error] 11050#11050: *28 open() "/data/www/activeing" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /activeing HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:29:07 [error] 11050#11050: *28 open() "/data/www/drugs" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:39:46 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon-precomposed.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon-precomposed.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:39:46 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:40:04 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon-precomposed.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon-precomposed.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:40:04 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:40:05 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon-precomposed.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon-precomposed.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:40:05 [error] 11050#11050: *41 open() "/data/www/apple-touch-icon.png" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /apple-touch-icon.png HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 14:40:41 [error] 11050#11050: *43 open() "/data/www/activeing" failed (2: No such file or directory), client: 49.205.222.183, server: bharath.servers.nferx.com, request: "GET /activeing HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 15:04:15 [error] 11050#11050: *48 open() "/data/www/activeing" failed (2: No such file or directory), client: 204.9.220.42, server: bharath.servers.nferx.com, request: "GET /activeing? HTTP/1.1", host: "bharath.servers.nferx.com", referrer: "http://bharath.servers.nferx.com/activeing"
+2017/09/04 15:41:56 [error] 11050#11050: *57 open() "/data/www/drugs" failed (2: No such file or directory), client: 103.6.157.65, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 15:42:02 [error] 11050#11050: *57 open() "/data/www/drugs" failed (2: No such file or directory), client: 103.6.157.65, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 19:26:44 [error] 11050#11050: *71 open() "/data/www/drugs" failed (2: No such file or directory), client: 73.61.19.207, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/04 19:26:48 [error] 11050#11050: *71 open() "/data/www/drugs" failed (2: No such file or directory), client: 73.61.19.207, server: bharath.servers.nferx.com, request: "GET /drugs HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/05 04:53:37 [error] 11050#11050: *116 open() "/data/www/activeing" failed (2: No such file or directory), client: 122.171.70.195, server: bharath.servers.nferx.com, request: "GET /activeing HTTP/1.1", host: "bharath.servers.nferx.com"
+2017/09/05 05:22:32 [error] 11050#11050: *123 open() "/data/www/activeing" failed (2: No such file or directory), client: 122.171.70.195, server: bharath.servers.nferx.com, request: "GET /activeing HTTP/1.1", host: "bharath.servers.nferx.com", referrer: "http://bharath.servers.nferx.com/"
+2017/09/02 13:43:13 [emerg] 10439#10439: "server" directive is not allowed here in /etc/nginx/nginx.conf:10
+2017/09/02 13:45:11 [warn] 10481#10481: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 13:45:29 [warn] 10515#10515: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 13:45:29 [warn] 10529#10529: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 14:52:39 [warn] 12691#12691: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to [::]:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to [::]:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to [::]:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to [::]:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/09/02 14:52:39 [emerg] 12691#12691: bind() to [::]:80 failed (98: Address already in use)
+2017/09/02 14:58:47 [warn] 12827#12827: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 15:00:50 [notice] 12871#12871: signal process started
+2017/09/02 15:19:55 [warn] 13544#13544: conflicting server name "_" on 0.0.0.0:80, ignored
+2017/09/02 15:20:41 [notice] 13583#13583: signal process started

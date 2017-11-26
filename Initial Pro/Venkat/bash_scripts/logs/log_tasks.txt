@@ -1,0 +1,38 @@
+
+You will have 6 sub tasks for this task.
+
+for the following 3 tasks, write a simple bash script taking the file as a command line input that is of the access format.
+
+1> Find the ip that has accessed the server the most.
+
+2> Find the number of unique browsers that have accessed the server.(22)
+
+3> Print the unique ips that have accessed the server.(263)
+
+For the next following tasks write a simple bash script taking the file as a command line input that is of the error format.
+
+4> Print the number of warning messages(18)
+
+For the next task write a simple bash script taking the file as the first command line input of the access format, start date as the second command line input and the end date as the third line command line input
+
+The date will be in YYYY/MM/DD format
+
+5> Print the ips that have access the server within the given date.
+
+For the next task write a simple bash script taking the file as the first command line input of the error format, start date as the second command line input and the end date as the third line command line input
+
+The date will be in YYYY/MM/DD format
+
+6> Print the number of warning messages and notice message with the given date. Print each of them seperately.
+
+Save your scripts and your bash files as log_analysis_<task_no>.sh under the foler bash_scripts 
+
+Push these files to your learning repository and create a pull request.
+
+
+
+
+
+Not Filtering Some thing while using GREP's
+SQL
+Star wars
